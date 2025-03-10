@@ -1,0 +1,33 @@
+Изменения по ИИК:
+ID, File1_ИИК, File2_ИИК
+ID: nan, File1_ИИК: nan, File2_ИИК: nan
+ID: 229020.0, File1_ИИК: 741256.0, File2_ИИК: 654789.0
+
+Изменения по БИК:
+ID, File1_БИК, File2_БИК
+ID: nan, File1_БИК: nan, File2_БИК: nan
+ID: 229020.0, File1_БИК: 15647.0, File2_БИК: 15648.0
+
+Изменения по ИИН:
+ID, File1_IIN, File2_IIN
+ID: nan, File1_IIN: nan, File2_IIN: nan
+
+Изменения по датам приказов:
+ID, File1_Date, File2_Date
+ID: 229020.0, File1_Date: nan, File2_Date: ар
+
+Изменения по сиротам:
+ID, File1_SIROTA, File2_SIROTA
+ID: nan, File1_SIROTA: nan, File2_SIROTA: nan
+ID: 229020.0, File1_SIROTA: Да, File2_SIROTA: Нет
+
+Изменения по квоте:
+ID, File1_kvota, File2_kvota
+ID: nan, File1_Kvota: nan, File2_Kvota: nan
+ID: 229020.0, File1_Kvota: nan, File2_Kvota: ар
+
+Изменения по слуху:
+ID, File1_Hear, File2_Hear
+ID: nan, File1_Hear: nan, File2_Hear: nan
+ID: 229020.0, File1_Hear: nan, File2_Hear: арп
+

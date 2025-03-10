@@ -1,0 +1,4 @@
+Изменения по сиротам:
+ID, File1_SIROTA, File2_SIROTA
+ID: 229020.0, File1_SIROTA: Да, File2_SIROTA: Нет
+ID: nan, File1_SIROTA: nan, File2_SIROTA: nan

@@ -1,0 +1,3 @@
+Изменения по датам приказов:
+ID, File1_Date, File2_Date
+ID: 229020.0, File1_Date: nan, File2_Date: ар

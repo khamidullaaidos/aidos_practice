@@ -1,0 +1,3 @@
+Изменения по зрению:
+ID, File1_vision, File2_vision
+ID: 111111.0, File1_vision: арп, File2_vision: арп, File1_Date: None, File2_Date: None, Expired_File1: Нет, Expired_File2: Нет

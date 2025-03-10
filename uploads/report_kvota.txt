@@ -1,0 +1,4 @@
+Изменения по квоте:
+ID, File1_kvota, File2_kvota
+ID: 229020.0, File1_Kvota: nan, File2_Kvota: ар
+ID: nan, File1_Kvota: nan, File2_Kvota: nan

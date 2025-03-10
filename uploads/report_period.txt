@@ -1,0 +1,3 @@
+Изменения по периоду:
+ID, File1_Period, File2_Period
+ID: 229020.0, File1_Period: Айдос, File2_Period: Ержан

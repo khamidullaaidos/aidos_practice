@@ -1,0 +1,3 @@
+Изменения по ИИН:
+ID, File1_IIN, File2_IIN
+ID: nan, File1_IIN: nan, File2_IIN: nan
